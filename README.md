@@ -1,6 +1,6 @@
-### Hi, my name is Nathan and welcome to my Github Repository!👋
+<img src="Profile_Picture.jpg" alt="Profile_Picture" width="200" left="100">
 
-<img src="Profile_Picture.jpg" alt="Profile_Picture" width="200">
+### Hi, my name is Nathan and welcome to my Github Repository!👋
 
 <!--
 **Ytesgn/Ytesgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
