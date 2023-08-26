@@ -1,4 +1,6 @@
-<img src="Profile_Picture.jpg" alt="Profile_Picture" width="200" left="100">
+<p align="center">
+<img src="Profile_Picture.jpg" alt="Profile_Picture" width="200">
+</p>
 
 ### Hi, my name is Nathan and welcome to my Github Repository!👋
 
