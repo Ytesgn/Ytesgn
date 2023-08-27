@@ -4,7 +4,7 @@
 
 ### Hi, my name is Nathan and welcome to my Github Repository!👋
 
-I am currently a Senior at Michigan State University and will be graduating Fall 2023. 
+I am currently a Senior at Michigan State University and I am graduating Fall 2023. 
 
 <!--
 **Ytesgn/Ytesgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
