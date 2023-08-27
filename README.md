@@ -3,7 +3,7 @@
 </p>
 
 <div id="badge" align="center">
-  <a href="https://www.linkedin.com/in/nategu72/">
+  <a href="https://www.linkedin.com/in/nategu72/" margin_right=10px>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://exam-nyzwctloba-uc.a.run.app">
