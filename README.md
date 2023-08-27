@@ -11,6 +11,8 @@
   </a>
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=Ytesgn&style=flat-square&color=blue" alt="Profile Views"/>
+
 ### Hi, my name is Nathan and welcome to my Github Repository!👋
 
 I am currently a Senior at Michigan State University and I am graduating Fall 2023. 
