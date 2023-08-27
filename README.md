@@ -11,11 +11,16 @@
   </a>
 </div>
 
+<!--
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ytesgn&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
+-->
 
-### Hi, my name is Nathan and welcome to my Github Repository!👋
+<h1>
+  Hi, my name is Nathan and welcome to my Github Repository!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 I am currently a Senior at Michigan State University and I am graduating Fall 2023. 
 
