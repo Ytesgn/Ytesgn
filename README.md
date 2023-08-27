@@ -18,11 +18,9 @@
 -->
 
 <h1>
-  Hi, my name is Nathan and welcome to my Github Repository!
+  Hi, My Name Is Nathan and Welcome to My Github Repository!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
-I am currently a Senior at Michigan State University and I am graduating Fall 2023. 
 
 <!--
 **Ytesgn/Ytesgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
