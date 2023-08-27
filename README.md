@@ -11,7 +11,9 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=Ytesgn&style=flat-square&color=blue" alt="Profile Views"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ytesgn&style=flat-square&color=blue" alt="Profile Views"/>
+</p>
 
 ### Hi, my name is Nathan and welcome to my Github Repository!👋
 
