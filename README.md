@@ -4,6 +4,12 @@
 
 ### Hi, my name is Nathan and welcome to my Github Repository!👋
 
+<div id="badge">
+  <a href="https://www.linkedin.com/in/nategu72/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
 I am currently a Senior at Michigan State University and I am graduating Fall 2023. 
 
 <!--
