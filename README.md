@@ -18,7 +18,7 @@
 -->
 
 <h1>
-  Hi, My Name Is Nathan and Welcome to My Github Repository!
+  Hi, My Name Is Nathan and Welcome to My Github Profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
