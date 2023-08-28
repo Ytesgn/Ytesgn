@@ -23,6 +23,7 @@
 </h1>
 
 ### :computer: About Me :
+- I am currently a senior at Michigan State University :man_student:
 
 <!--
 **Ytesgn/Ytesgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
