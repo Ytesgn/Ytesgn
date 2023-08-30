@@ -23,9 +23,13 @@
 </h1>
 
 ### :computer: About Me :
-- I am currently a Senior at Michigan State University :man_student:
-- Graduating December 2023 :school:
-- 
+- I am currently a Senior at Michigan State University studying Computer Science with a minor in Data Science :man_student:
+- Graduating December 2023 Fall :school:
+- I am interested in ML/AI, Algorithm Engineering, and Quantitative Developer :necktie:
+- I am planning on pursuing my Masters after I graduate, hopefully during full-time employment
+- I enjoy collecting Pokemon Cards in my free time :star:
+
+  
 <!--
 **Ytesgn/Ytesgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
