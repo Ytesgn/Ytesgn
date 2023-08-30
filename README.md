@@ -11,9 +11,11 @@
   </a>
 </div>
 
+<!--
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ytesgn&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
+-->
 
 <h1>
   Hi, My Name Is Nathan and Welcome to My Github Profile!
