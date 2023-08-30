@@ -33,7 +33,12 @@
 - Elektrobit
 - Carpenter Technology Corporation
 - Michigan State University
-- 
+
+### How To Contact Me:
+- Email: nategu2012@gmail.com
+- School Email: gunathan@msu.edu
+- Phone Number: 734-635-3481
+
 <!--
 **Ytesgn/Ytesgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
