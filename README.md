@@ -29,7 +29,8 @@
 - I am planning on pursuing my Masters after I graduate, hopefully during full-time employment
 - I enjoy collecting Pokemon Cards in my free time :star:
 
-  
+### Companies I Have Worked For 
+
 <!--
 **Ytesgn/Ytesgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
