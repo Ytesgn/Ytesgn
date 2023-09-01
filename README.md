@@ -28,6 +28,7 @@
 - I am interested in ML/AI, Algorithm Engineering, and Quantitative Developer :necktie:
 - I am planning on pursuing my Masters after I graduate, hopefully during full-time employment
 - I enjoy collecting Pokemon Cards in my free time :star:
+- My resume is available here: <a href="Resume_2023.pdf" download="Resumt.pdf" title="Resume"> Resume </a>
 
 ---
 
