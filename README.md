@@ -37,6 +37,10 @@
   <a href="https://www.elektrobit.com/" align="center">
     <img src="EB_logo.jpg" alt="EB Logo" width="250">
   </a>
+
+  <a href="https://www.carpentertechnology.com/" align="center">
+    <img src="CT_logo.png" alt="CT Logo" width="250">
+  </a>
 </div>
   
 ### :office_worker: Companies I Have Worked For:
