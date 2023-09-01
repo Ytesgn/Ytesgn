@@ -4,7 +4,7 @@
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/nategu72/" align="center">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn Badge">
   </a>
   <a href="https://exam-nyzwctloba-uc.a.run.app" align="center">
     <img src="https://img.shields.io/badge/Website_Project-red?logo=javascript&logoColor=black&style=for-the-badge" alt="Website Badge">
@@ -19,7 +19,7 @@
 
 <h1>
   Hi, My Name Is Nathan and Welcome to My Github Profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 </h1>
 
 ### :computer: About Me :
@@ -30,7 +30,7 @@
 - I enjoy collecting Pokemon Cards in my free time :star:
 
 <a href="https://msu.edu/" align="center">
-  <img src="MSU_logo.png" alt="MSU Logo"/>
+  <img src="MSU_logo.png" alt="MSU Logo" width="200">
 </a>
   
 ### :office_worker: Companies I Have Worked For:
