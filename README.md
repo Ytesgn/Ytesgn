@@ -50,6 +50,8 @@
 - Carpenter Technology Corporation
 - Michigan State University
 
+---
+
 ### How To Contact Me:
 - Email: nategu2012@gmail.com
 - School Email: gunathan@msu.edu
