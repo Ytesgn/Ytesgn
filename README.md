@@ -29,9 +29,15 @@
 - I am planning on pursuing my Masters after I graduate, hopefully during full-time employment
 - I enjoy collecting Pokemon Cards in my free time :star:
 
-<a href="https://msu.edu/" align="center">
-  <img src="MSU_logo.png" alt="MSU Logo" width="250">
-</a>
+<div id="images" align="center">
+  <a href="https://msu.edu/" align="center">
+    <img src="MSU_logo.png" alt="MSU Logo" width="250">
+  </a>
+  
+  <a href="https://www.elektrobit.com/" align="center">
+    <img src="EB_logo.jpg" alt="EB Logo" width="250">
+  </a>
+</div>
   
 ### :office_worker: Companies I Have Worked For:
 - Elektrobit
