@@ -39,7 +39,7 @@
   </a>
 
   <a href="https://www.carpentertechnology.com/" align="center">
-    <img src="CT_logo.png" alt="CT Logo" width="250">
+    <img src="Carpenter_Technology_Black.png" alt="CT Logo" width="250">
   </a>
 </div>
   
