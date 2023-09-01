@@ -30,7 +30,7 @@
 - I enjoy collecting Pokemon Cards in my free time :star:
 
 <a href="https://msu.edu/" align="center">
-  <img src="MSU_logo.jpg" alt="MSU Logo"/>
+  <img src="MSU_logo.png" alt="MSU Logo"/>
 </a>
   
 ### :office_worker: Companies I Have Worked For:
