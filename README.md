@@ -29,6 +29,8 @@
 - I am planning on pursuing my Masters after I graduate, hopefully during full-time employment
 - I enjoy collecting Pokemon Cards in my free time :star:
 
+---
+
 <div id="images" align="center">
   <a href="https://msu.edu/" align="center">
     <img src="MSU_logo.png" alt="MSU Logo" width="250">
