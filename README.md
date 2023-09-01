@@ -73,4 +73,3 @@
 ### How To Contact Me:
 - Email: nategu2012@gmail.com
 - School Email: gunathan@msu.edu
-- Phone Number: 734-635-3481
