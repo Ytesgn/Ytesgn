@@ -19,7 +19,7 @@
 
 <h1>
   Hi, My Name Is Nathan and Welcome to My Github Profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
 
 ### :computer: About Me :
@@ -30,7 +30,7 @@
 - I enjoy collecting Pokemon Cards in my free time :star:
 
 <a href="https://msu.edu/" align="center">
-  <img src="MSU_logo.png" alt="MSU Logo" width="200">
+  <img src="MSU_logo.png" alt="MSU Logo" width="250">
 </a>
   
 ### :office_worker: Companies I Have Worked For:
