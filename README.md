@@ -29,6 +29,10 @@
 - I am planning on pursuing my Masters after I graduate, hopefully during full-time employment
 - I enjoy collecting Pokemon Cards in my free time :star:
 
+<a href="https://msu.edu/" align="center">
+  <img src="MSU_logo.jpg" alt="MSU Logo"/>
+</a>
+  
 ### :office_worker: Companies I Have Worked For:
 - Elektrobit
 - Carpenter Technology Corporation
