@@ -68,6 +68,10 @@
 
 ---
 
+### Github Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ytesgn&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 ### How To Contact Me:
 - Email: nategu2012@gmail.com
 - School Email: gunathan@msu.edu
