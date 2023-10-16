@@ -6,5 +6,9 @@ ChatGPT is a powerful tool that allows users to prompt a LLM (Large Language Mod
 
 ## House Robbers:
 
+The house robeers problem is a simple DP problem where you have to find the maximum sum of non-adjacent elements of a list. So, for example, if you have a list that contains [2, 10, 12, 5, 20], then the maximum sum will be 34. 
+
+### ChatGPT's Solution
+
 
 
