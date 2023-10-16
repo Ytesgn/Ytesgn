@@ -10,7 +10,7 @@ The house robeers problem is a simple DP problem where you have to find the maxi
 
 ### ChatGPT's Solution
 
-def rob(nums):
+    def rob(nums):
     if not nums:
         return 0
 
