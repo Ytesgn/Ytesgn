@@ -69,6 +69,7 @@ I started the process by creating two functions, one that would insert n element
     
 # Results
 
+![dictionary_insert_comparison](dictionary_speeds.png)
 
 # Discussion
 
