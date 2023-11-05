@@ -115,7 +115,7 @@ Here is the output of the code above:
     Time Multimap: 4.668 Seconds
     Time Unordered Multimap: 1.624 Seconds
 
-![dictionary_insert_comparison](dictionary_speeds.png)
+![dictionary_insert_comparison](https://github.com/Ytesgn/Ytesgn/blob/main/dictionary_speeds.png)
 
 This graph shows the input size on the X axis and the time in seconds it took for the inserting of the input size of elements into a Tree Backend and a Hash Table Backend. As we can see from this graph, it shows that the multimap (Tree Backend) grows much faster than the unordered multimap (Hash Table Backend) when the input size increases. It seems for smaller sizes all the way up to two hundred thousand, the runtime of the multimap and the unordered multimap is close to the same, but once the input size surpasses two hundred thousand, it is clear that the unordered multimap is much faster than the multimap. 
 
