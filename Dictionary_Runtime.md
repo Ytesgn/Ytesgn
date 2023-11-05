@@ -69,8 +69,60 @@ I started the process by creating two functions, one that would insert n element
     
 # Results
 
+Here is the output of the code above:
+
+    Input Size: 10
+    Time Multimap: 1.1e-05 Seconds
+    Time Unordered Multimap: 6e-06 Seconds
+    
+    Input Size: 100
+    Time Multimap: 0.00011 Seconds
+    Time Unordered Multimap: 6e-05 Seconds
+    
+    Input Size: 1000
+    Time Multimap: 0.001 Seconds
+    Time Unordered Multimap: 0.001 Seconds
+    
+    Input Size: 5000
+    Time Multimap: 0.005 Seconds
+    Time Unordered Multimap: 0.005 Seconds
+    
+    Input Size: 10000
+    Time Multimap: 0.014 Seconds
+    Time Unordered Multimap: 0.008 Seconds
+    
+    Input Size: 15000
+    Time Multimap: 0.021 Seconds
+    Time Unordered Multimap: 0.012 Seconds
+    
+    Input Size: 100000
+    Time Multimap: 0.13 Seconds
+    Time Unordered Multimap: 0.076 Seconds
+    
+    Input Size: 150000
+    Time Multimap: 0.201 Seconds
+    Time Unordered Multimap: 0.133 Seconds
+    
+    Input Size: 1000000
+    Time Multimap: 1.936 Seconds
+    Time Unordered Multimap: 0.863 Seconds
+    
+    Input Size: 1500000
+    Time Multimap: 3.387 Seconds
+    Time Unordered Multimap: 1.462 Seconds
+    
+    Input Size: 2000000
+    Time Multimap: 4.668 Seconds
+    Time Unordered Multimap: 1.624 Seconds
+
 ![dictionary_insert_comparison](dictionary_speeds.png)
+
+This graph shows the input size on the X axis and the time in seconds it took for the inserting of the input size of elements into a Tree Backend and a Hash Table Backend. As we can see from this graph, it shows that the multimap (Tree Backend) grows much faster than the unordered multimap (Hash Table Backend) when the input size increases. It seems for smaller sizes all the way up to two hundred thousand, the runtime of the multimap and the unordered multimap is close to the same, but once the input size surpasses two hundred thousand, it is clear that the unordered multimap is much faster than the multimap. 
 
 # Discussion
 
+The data that I collected is a bit sparse, but I used input sizes between 10 and 2,000,000 that I believed were significant thresholds for runtime testing. I could collect more data in between the input sizes I chose and create a smoother graph, but I believe that the shape of the graph is representative of the runtime differences even with only the sparse points I collected. When it comes to the results, I was actually surprised that the runtimes remained comparable for so long. I expected the unordered multimap to be much faster than the multimap by an input size of 10,000, but I was obviously wrong. During the collection of my data, I had a bug where the dictionary that I passed into the functions that inserted the elements wasn't being updated with the values inserted. This was a rookie mistake on my end and the fix was changing the type of the function parameter to a reference. 
+
 # Conclusions
+
+With my local settings and the input sizes I chose, it seems like using an unordered multimap is noticeably faster than a multimap when the input size is over 100,000 elements. Also, in general, for larger input sizes, an unordered multimap is more than 2 times faster than a multimap. 
